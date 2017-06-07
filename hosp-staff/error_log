@@ -1,0 +1,18 @@
+[14-Oct-2016 19:40:32 Asia/Manila] PHP Notice:  Undefined index: uid in /home/icorcmdi/public_html/wbpmsys/qmc-pharmacist/make-transfer.php on line 94
+[14-Oct-2016 19:42:34 Asia/Manila] PHP Notice:  Undefined index: uid in /home/icorcmdi/public_html/wbpmsys/qmc-pharmacist/make-transfer.php on line 94
+[14-Oct-2016 19:45:12 Asia/Manila] PHP Notice:  Undefined index: uid in /home/icorcmdi/public_html/wbpmsys/qmc-pharmacist/make-transfer.php on line 94
+[14-Oct-2016 19:47:27 Asia/Manila] PHP Notice:  Undefined index: uid in /home/icorcmdi/public_html/wbpmsys/qmc-pharmacist/make-transfer.php on line 94
+[14-Oct-2016 19:49:29 Asia/Manila] PHP Notice:  Undefined index: uid in /home/icorcmdi/public_html/wbpmsys/qmc-pharmacist/make-transfer.php on line 94
+[14-Oct-2016 19:50:26 Asia/Manila] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty' in /home/icorcmdi/public_html/wbpmsys/qmc-pharmacist/make-transfer.php:25
+Stack trace:
+#0 /home/icorcmdi/public_html/wbpmsys/qmc-pharmacist/make-transfer.php(25): PDOStatement->execute()
+#1 {main}
+  thrown in /home/icorcmdi/public_html/wbpmsys/qmc-pharmacist/make-transfer.php on line 25
+[14-Oct-2016 19:51:13 Asia/Manila] PHP Notice:  Undefined index: uid in /home/icorcmdi/public_html/wbpmsys/qmc-pharmacist/make-transfer.php on line 94
+[14-Oct-2016 20:07:00 Asia/Manila] PHP Notice:  Undefined index: uid in /home/icorcmdi/public_html/wbpmsys/qmc-pharmacist/make-transfer.php on line 94
+[14-Oct-2016 21:14:24 Asia/Manila] PHP Notice:  Undefined index: uid in /home/icorcmdi/public_html/wbpmsys/qmc-pharmacist/make-transfer.php on line 94
+[14-Oct-2016 21:14:43 Asia/Manila] PHP Notice:  Undefined index: uid in /home/icorcmdi/public_html/wbpmsys/qmc-pharmacist/make-transfer.php on line 94
+[14-Oct-2016 21:14:55 Asia/Manila] PHP Notice:  Undefined index: uid in /home/icorcmdi/public_html/wbpmsys/qmc-pharmacist/make-transfer.php on line 94
+[14-Oct-2016 21:16:03 Asia/Manila] PHP Notice:  Undefined index: uid in /home/icorcmdi/public_html/wbpmsys/qmc-pharmacist/make-transfer.php on line 94
+[14-Oct-2016 21:17:19 Asia/Manila] PHP Notice:  Undefined index: uid in /home/icorcmdi/public_html/wbpmsys/qmc-pharmacist/make-transfer.php on line 94
+[14-Oct-2016 21:17:38 Asia/Manila] PHP Notice:  Undefined index: uid in /home/icorcmdi/public_html/wbpmsys/qmc-pharmacist/make-transfer.php on line 94
